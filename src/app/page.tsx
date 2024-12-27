@@ -5,7 +5,7 @@ import Home from "./components/home";
 import Footer from "./components/footer";
 export default function main() {
   return (
-    <div>
+    <div className="w-screen h-screen">
       <Dimtxy />
       <Header />
       <Banner />
